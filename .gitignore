@@ -21,3 +21,8 @@ yarn-debug.log*
 yarn-error.log*
 
 /src/token.js
+
+#firebase
+.firebase
+.firebaserc
+firebase.json
